@@ -27,6 +27,7 @@ nav {
 
 #navegacion {
     position: fixed;
+    
 }
 
 .over {
@@ -38,4 +39,12 @@ nav {
     background-color: black;
     color: greenyellow;
     font-family: Arial;
+}
+
+img {
+    float: right;
+}
+
+img:hover {
+    opacity: 0.8;
 }
