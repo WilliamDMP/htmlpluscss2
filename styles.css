@@ -8,3 +8,15 @@ h1 {
     text-decoration: underline;
     text-align: center;
 }
+
+nav {
+    display: inline;
+    color: greenyellow;
+    border: 1px solid gray;
+    border-radius: 3px;
+    background-color: black;
+}
+
+#navegacion {
+    position: fixed;
+}
